@@ -1,14 +1,4 @@
-/* LandingPage.css */
 
-/* .landing-page {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    animation: fade-in 1s ease-in-out;
-    background-color: #f2f2f2;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-  } */
   
   @keyframes fade-in {
     from {
@@ -119,15 +109,7 @@
     display: flex;
 }
 
-/* button {
-    color: white;
-    background-color: black;
-    border-radius: 10px;
-    width: 90px;
-    height: 34px;
-} */
 
-/* LandingPage.css */
 
 .button-container {
     display: flex;
@@ -159,9 +141,6 @@
     margin-top: 20px;
   }
   
-  /* .content div {
-    display: none;
-  } */
   
   .content div.active {
     display: block;
